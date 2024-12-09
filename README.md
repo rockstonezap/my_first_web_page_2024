@@ -8,3 +8,5 @@ This is the repository for activity III.
 - Added footer and header.
 - Added images for content section.
 - Added content and menu.
+- Fixed issues in styling and html in html file.
+- Added a black cat image with green eyes to main content in html file.
